@@ -1,0 +1,16 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\DIO.Series\bin\Debug\net5.0\DIO.Serie.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\DIO.Series\bin\Debug\net5.0\DIO.Serie.deps.json
+C:\Users\alvar\OneDrive\Área de Trabalho\DIO.Series\bin\Debug\net5.0\DIO.Serie.runtimeconfig.json
+C:\Users\alvar\OneDrive\Área de Trabalho\DIO.Series\bin\Debug\net5.0\DIO.Serie.runtimeconfig.dev.json
+C:\Users\alvar\OneDrive\Área de Trabalho\DIO.Series\bin\Debug\net5.0\DIO.Serie.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\DIO.Series\bin\Debug\net5.0\ref\DIO.Serie.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\DIO.Series\bin\Debug\net5.0\DIO.Serie.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\DIO.Series\obj\Debug\net5.0\DIO.Serie.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\DIO.Series\obj\Debug\net5.0\DIO.Serie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Área de Trabalho\DIO.Series\obj\Debug\net5.0\DIO.Serie.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\DIO.Series\obj\Debug\net5.0\DIO.Serie.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Área de Trabalho\DIO.Series\obj\Debug\net5.0\DIO.Serie.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\DIO.Series\obj\Debug\net5.0\DIO.Serie.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\DIO.Series\obj\Debug\net5.0\ref\DIO.Serie.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\DIO.Series\obj\Debug\net5.0\DIO.Serie.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\DIO.Series\obj\Debug\net5.0\DIO.Serie.genruntimeconfig.cache
